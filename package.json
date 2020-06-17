@@ -1,0 +1,11 @@
+{
+  "name": "puppeteer-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "puppeteer": "^4.0.0",
+    "sqlstring": "^2.3.2"
+  }
+}

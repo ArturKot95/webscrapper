@@ -1,0 +1,4 @@
+node_modules/
+credentials.js
+db_credentials.js
+allegro_credentials.js
